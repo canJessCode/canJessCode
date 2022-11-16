@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @canJessCode;
-- 👀 I’m interested in HTML and CSS;
+- 👀 I’m interested in HTML, CSS and javaScript;
 - 🌱 I’m currently learning zero to hero course on HTML, CSS and JavaScript;
 - 📫 How to reach me - My Email: jessicagough18@gmail.com;
 
