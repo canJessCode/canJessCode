@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @canJessCode;
-- 👀 I’m interested in HTML, CSS and javaScript;
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React ;
+- 👋 Hi, I’m @jessicaleegough;
+- 👀 I’m interested in Front-end Development;
+- 🌱 I’m currently learning React.js ;
 - 📫 How to reach me - My Email: jessicagough18@gmail.com;
 
 <!---
